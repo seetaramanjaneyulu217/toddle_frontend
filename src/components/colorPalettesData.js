@@ -1,0 +1,1 @@
+export const colors = [{ id:1, palette:"#a7f0f9"}, {id:2, palette:"#c5c5fc"}, {id:3, palette:"#ffaec0"}, {id:4, palette:"#ffcc66"}]
